@@ -28,7 +28,7 @@ Config = {
             {
                 num = 1,
                 type = "client",
-                event = "qs-smartphone:client:GiveContactDetails", 
+                event = "qb-smartphone:client:GiveContactDetails", 
                 icon = 'fas fa-phone',
                 label = 'Telefon Bilgilerini Paylaş',
             }
